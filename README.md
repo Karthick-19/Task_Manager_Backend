@@ -1,4 +1,3 @@
-```markdown
 # 📝 Task Manager Backend
 
 A simple **Task Manager API** built using **Node.js** and **Express.js**, with MongoDB as the database.  
@@ -25,7 +24,6 @@ This project is part of my backend development learning journey, focusing on bui
 ---
 
 ## 📂 Project Structure
-```
 
 Task\_Manager\_Backend/
 │── src/
@@ -39,9 +37,7 @@ Task\_Manager\_Backend/
 │── package.json     # Dependencies and scripts
 │── README.md
 
-````
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -49,7 +45,7 @@ Task\_Manager\_Backend/
    ```bash
    git clone https://github.com/Karthick-19/Task_Manager_Backend.git
    cd Task_Manager_Backend
-````
+
 
 2. **Install dependencies**
 
@@ -127,9 +123,4 @@ Content-Type: application/json
 📌 Learning Node.js, Backend Development & Integration Systems.
 🔗 [GitHub](https://github.com/Karthick-19)
 
-```
-
----
-
-Do you want me to also make a **short “project story”** (like *why you built it, what you learned*) that you can post on **LinkedIn/GitHub profile** to showcase progress?
 ```
